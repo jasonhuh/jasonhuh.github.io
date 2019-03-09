@@ -15,7 +15,7 @@ In the old days, if you wanted to write "Hello World" in Java, you had to downlo
 
 Here is the list of IDEs for different languages that I use when I teach students. With these IDEs, anyone can easily explore features of programming languages without writing all the plumbings. I intentionally listed only free softwares.
 
-[su_table]<table>
+<table>
 <tr>
 	<th>Language</th>
 	<th>Simple IDE or REPL</th>
@@ -45,4 +45,4 @@ Here is the list of IDEs for different languages that I use when I teach student
 	<td><a href="https://play.golang.org/">The Go Playground</a></td>
 	<td>Use Visual Studio Code or Atom</td>
 </tr>
-</table>[/su_table]
+</table>
