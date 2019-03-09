@@ -7,7 +7,8 @@ permalink: /2018/03/27/advanced-lane-finding-project-using-computer-vision
 The Advanced Lane Finding project was about detecting car lanes using computer vision techniques such as perspective transform, color transform, edge detection, etc. I mainly used Jupyter Notebook and Python with the OpenCV library, and I had lots of fun implementing car lane detection logic that handles unexpected scenarios such as missing lane markers, shadow areas, etc.
 
 Here is the video of the final result:
-[su_youtube url="https://www.youtube.com/watch?v=c71xPQXt2cg"]
+
+[![Alt text](https://img.youtube.com/vi/c71xPQXt2cg/0.jpg)](https://www.youtube.com/watch?v=c71xPQXt2cg)
 
 * * *
 
