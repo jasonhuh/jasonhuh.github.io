@@ -10,9 +10,12 @@ This was one of my favorite projects at Udacity. This project is called Behavior
 Here are the videos of the final results:
 
 #### Driving on a Flat track
-[su_youtube url="https://www.youtube.com/watch?v=h0Bbencn_1I"]
+
+[![Alt text](https://img.youtube.com/vi/h0Bbencn_1I/0.jpg)](https://www.youtube.com/watch?v=h0Bbencn_1I)
 
 #### Driving up to a Mountain
-[su_youtube url="https://www.youtube.com/watch?v=ZRE97JTQ1Nc"]
+
+[![Alt text](https://img.youtube.com/vi/ZRE97JTQ1Nc/0.jpg)](https://www.youtube.com/watch?v=ZRE97JTQ1Nc)
+
 
 The full source with the detailed explanation is available at <a href="https://github.com/jasonhuh/CarND-Behavioral-Cloning-P3">https://github.com/jasonhuh/CarND-Behavioral-Cloning-P3</a>
